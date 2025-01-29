@@ -9,7 +9,7 @@ public class MessageRunner implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		System.out.println("Welcome To SpringBoot App !!!.....34");
-		System.out.println("Hiii");
+		System.out.println("tuu");
 	}
 
 }
